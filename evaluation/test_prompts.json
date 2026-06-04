@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "prompt": "Build a CRM with login and contacts"
+  },
+  {
+    "id": 2,
+    "prompt": "Build an LMS with students and courses"
+  },
+  {
+    "id": 3,
+    "prompt": "Build an e-commerce platform with products and orders"
+  },
+  {
+    "id": 4,
+    "prompt": "Build a hospital management system"
+  },
+  {
+    "id": 5,
+    "prompt": "Build a hotel booking system"
+  }
+]
